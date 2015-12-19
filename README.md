@@ -53,6 +53,7 @@
 ## 资讯
 - http://www.echojs.com/
 - https://teamtreehouse.com/library/the-treehouse-show
+- http://www.smashingmagazine.com/tag/javascript/(一些工作了10几年以上的国外前端经常会上的)
 
 ## 播客
 - https://devchat.tv/js-jabber/
