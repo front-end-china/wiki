@@ -68,3 +68,11 @@
 ## 常用npm包列表
 
 ## 常用gulp包列表
+
+## 资源
+- https://github.com/zhengjunwei/idiomatic.js
+- https://javascriptweblog.wordpress.com/
+- http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers
+- http://rmurphey.com/
+- http://perfectionkills.com/（五星推荐）
+- https://github.com/rmurphey/js-assessment（测试相关）
