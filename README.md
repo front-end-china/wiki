@@ -76,3 +76,4 @@
 - http://rmurphey.com/
 - http://perfectionkills.com/（五星推荐）
 - https://github.com/rmurphey/js-assessment（测试相关）
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript（鉴于ecma规范很枯燥，这是最值得看的资源）
