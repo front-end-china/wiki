@@ -54,7 +54,7 @@
 - http://www.echojs.com/
 - https://teamtreehouse.com/library/the-treehouse-show
 - http://www.smashingmagazine.com/tag/javascript/(一些工作了10几年以上的国外前端经常会上的)
-
+- http://yayquery.com/ 很funny的一个podcast
 ## 播客
 - https://devchat.tv/js-jabber/
 - https://fivejs.codeschool.com/
