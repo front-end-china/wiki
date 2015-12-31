@@ -55,6 +55,7 @@
 - https://teamtreehouse.com/library/the-treehouse-show
 - http://www.smashingmagazine.com/tag/javascript/(一些工作了10几年以上的国外前端经常会上的)
 - http://yayquery.com/ 很funny的一个podcast
+- http://www.stevesouders.com/blog/
 ## 播客
 - https://devchat.tv/js-jabber/
 - https://fivejs.codeschool.com/
@@ -63,7 +64,7 @@
 
 ## 需要follow的twitter账号
 - Addy Osmani
-- Paul Irishc 
+- Paul Irishc
 
 ## 常用npm包列表
 
